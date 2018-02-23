@@ -1881,11 +1881,6 @@ body {
 .cid-qKj01De7sc .mbr-text {
   color: #767676;
 }
-.cid-qKjB767Igu {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/full-moon-415501-1920-1920x746.jpg");
-}
 .cid-qKqDhfm77x {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1915,7 +1910,7 @@ body {
 }
 .cid-qKqKDslNDh {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #fafafa;
 }
 .cid-qKqKDslNDh h3 {
@@ -1945,6 +1940,103 @@ body {
   .cid-qKqKDslNDh .card {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
+  }
+}
+.cid-qKqML6OdYZ {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f9d888;
+}
+.cid-qKqML6OdYZ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qKqML6OdYZ .formoid {
+  margin: auto;
+}
+.cid-qKqML6OdYZ .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-qKqML6OdYZ a.btn {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+}
+.cid-qKqML6OdYZ .input-group-btn {
+  align-self: center;
+  -webkit-align-self: center;
+  z-index: 3;
+}
+.cid-qKqML6OdYZ .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.cid-qKqML6OdYZ a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-qKqML6OdYZ a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qKqML6OdYZ .mbr-subscribe .input-group-btn {
+  display: inline-block;
+}
+.cid-qKqML6OdYZ .mbr-subscribe .input-group-btn button,
+.cid-qKqML6OdYZ .mbr-subscribe .input-group-btn a {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 350px) {
+  .cid-qKqML6OdYZ .mbr-subscribe {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-qKqML6OdYZ input[type="email"] {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .cid-qKqML6OdYZ .input-group-btn {
+    width: 100%;
+  }
+  .cid-qKqML6OdYZ .input-group-btn .btn {
+    border-radius: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qKqML6OdYZ .input-group-btn a.btn {
+    width: 100%;
+  }
+  .cid-qKqML6OdYZ .input-group-btn {
+    width: calc(92%);
+  }
+  .cid-qKqML6OdYZ .input-group-btn button[type="submit"] {
+    width: 100%;
+  }
+  .cid-qKqML6OdYZ .input-group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 300px;
+  }
+  .cid-qKqML6OdYZ .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 3px;
+  }
+  .cid-qKqML6OdYZ .input-group span {
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qKqML6OdYZ .input-group-btn button,
+  .cid-qKqML6OdYZ .input-group-btn a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (min-width: 769px) {
+  .cid-qKqML6OdYZ .mbr-subscribe > * {
+    margin: 0 0.5rem;
   }
 }
 .cid-qKjaNbCWpG {
